@@ -1,0 +1,51 @@
+{
+    "name": "startp",
+    "version": "3.8.0",
+    "description": "StartP - React Next IT Startup & Digital Agency Template",
+    "main": "index.js",
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start",
+        "lint": "next lint"
+    },
+    "author": "EnvyTheme.com",
+    "dependencies": {
+        "@nextui-org/react": "^1.0.0-beta.13",
+        "@types/lodash": "^4.14.195",
+        "@types/react-html-parser": "^2.0.2",
+        "animate.css": "^4.1.1",
+        "axios": "^1.1.3",
+        "lodash": "4.14.0",
+        "moment": "^2.29.4",
+        "next": "^13.1.6",
+        "nodemailer": "^6.7.5",
+        "nodemailer-sendgrid-transport": "^0.2.0",
+        "react": "^18.2.0",
+        "react-accessible-accordion": "^5.0.0",
+        "react-bootstrap-pagination": "^1.0.7",
+        "react-dom": "^18.2.0",
+        "react-feather": "^2.0.10",
+        "react-hook-form": "^7.45.1",
+        "react-hot-toast": "^2.4.0",
+        "react-html-parser": "^2.0.2",
+        "react-redux": "^7.2.6",
+        "react-responsive-masonry": "^2.1.5",
+        "react-slick": "^0.29.0",
+        "react-tabs": "^5.1.0",
+        "redux": "^3.6.0",
+        "redux-devtools-extension": "^2.13.9",
+        "sass": "^1.43.4",
+        "sweetalert2": "^11.4.19",
+        "sweetalert2-react-content": "^5.0.0",
+        "swiper": "^8.3.2"
+    },
+    "license": "MIT",
+    "devDependencies": {
+        "@types/node": "^20.3.1",
+        "@types/react": "^18.2.14",
+        "eslint": "^8.43.0",
+        "eslint-config-next": "13.4.7",
+        "typescript": "^5.1.3"
+    }
+}
